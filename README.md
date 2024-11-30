@@ -7,7 +7,7 @@
   <title>imad ZOUKAGH</title>
 </head>
 <body>
-  <h1>NO ES BUENO METER NARIZ EN ASUNTOS DE OTRAS PERSONAS , BUSCATE UN VIDA PERSONAL  </h1>
-  <p>hOLA MAN</p>
+  <h1></h1>
+  <p></p>
 </body>
 </html>
